@@ -1509,6 +1509,22 @@ ul {
   border-top: 1px solid #444;
 }
 /* End Footer */
+
+/*start artteacher*/
+.artteacher {
+  padding: 30px ;
+  margin: 30px;
+  font-size: 50;
+  font-weight: 700;
+  direction: rtl;
+  color: #111010;
+  line-height: 30px;
+  text-align: center;
+
+}
+
+/*end artteacher*/
+
 /* Start Animation */
 @keyframes up-and-down {
   0%,
